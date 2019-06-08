@@ -2,7 +2,6 @@
 内容是 Enderal 的同名小说 ***Dreams of the Dying** - Book One "Every day like the last"*(-by Nicolas Lietzau)，可以在 Steam Enderal 免费下载 PDF 版本。  
 为了方便，我将其转换为了 TXT 格式并作了排版调整。  
 初次翻译的底稿自然会是垃圾，为了便利将忽略质量。但最终定稿之前还会有无数次审阅和润色。  
-
 # 翻译指导：
 - 原文中的斜体字应用 Markdown 标记〔\*斜体\*〕来标记，无论中英。
 - 应保持名词翻译的一致性，本人将会根据游戏官方中文进行校对。**【因此，建议非主持者保留原文名词。】**
